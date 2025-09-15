@@ -2,23 +2,24 @@
 
 ## About Me
 
-- 🌱 Student of Life, always eager to learn and explore new things.
-- 💻 Proficient in C++, C# and Python.
-- 🌐 Experienced with Microservices, REST APIs, .Net Core, Django web framework and SFML (Simple and Fast Multimedia Library).
-- 📚 Avid reader who loves to learn from books and other resources.
+- 🌱 Lifelong learner passionate about exploring new technologies and solving real-world problems.
+- 💻 Over **2 years of experience** working on **ASP.NET Core** and **Python (Django)** projects, building scalable web applications and APIs.
+- 🌐 Experienced in Microservices architecture, REST APIs, Minimal APIs, and full-stack web development.
+- 📚 Avid reader, constantly improving my knowledge through books and hands-on practice.
 
 ## Skills
 
-- **Programming Languages:** C#, C++, Python
-- **Web Development:** Django, Blazor
+- **Programming Languages:** C#, Python, C++
+- **Web Development:** ASP.NET Core (Web API, Minimal APIs, Blazor), Django
+- **Architecture & Tools:** Microservices, REST APIs, Entity Framework Core, SQL Server
 - **Game Development:** SFML (Simple and Fast Multimedia Library)
-- **Minimal APIs:** ASP .NET Core Web API, REST APIs
+- **Other:** Authentication, Authorization, Performance Optimization
 
 ## Interests and Hobbies
 
-- ♟️ Passionate about chess and love strategic thinking.
-- 🏋️ Enthusiastic about fitness and maintaining a healthy lifestyle.
-- 📚 Constantly reading and expanding my knowledge in various domains.
-- 🌐 Exploring new technologies and staying updated with the latest trends.
+- ♟️ Chess enthusiast with a love for strategic thinking and problem-solving.
+- 🏋️ Fitness lover committed to staying active and healthy.
+- 📚 Passionate about reading and continuous self-improvement.
+- 🌐 Exploring new technologies, frameworks, and staying updated with industry trends.
 
-Looking forward to collaborating and learning together! 🚀
+Let's connect, collaborate, and build amazing projects together! 🚀
