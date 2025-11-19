@@ -1,25 +1,63 @@
-# Welcome to My GitHub Profile! 👋
+## 👋 Hi, I’m **Yogendra Rajput**
+💡 **Software Developer | Full-Stack Engineer**
 
-## About Me
+Currently working at **Gaursons India Ltd.** as a **Software Developer**, with **2+ years of experience** building scalable desktop & web applications using **ASP.NET Core, Django, WPF, and SQL**.  
+I enjoy building systems that solve **real business problems** and improve productivity.
 
-- 🌱 Lifelong learner passionate about exploring new technologies and solving real-world problems.
-- 💻 Over **2 years of experience** working on **ASP.NET Core** and **Python (Django)** projects, building scalable web applications and APIs.
-- 🌐 Experienced in Microservices architecture, REST APIs, Minimal APIs, and full-stack web development.
-- 📚 Avid reader, constantly improving my knowledge through books and hands-on practice.
+---
 
-## Skills
+### 🛠️ Work Highlights & Projects
 
-- **Programming Languages:** C#, Python, C++
-- **Web Development:** ASP.NET Core (Web API, Minimal APIs, Blazor), Django
-- **Architecture & Tools:** Microservices, REST APIs, Entity Framework Core, SQL Server
-- **Game Development:** SFML (Simple and Fast Multimedia Library)
-- **Other:** Authentication, Authorization, Performance Optimization
+🔐 **Kiosk Visitor Management System** — *Django*  
+Captures visitor photo & details to track potential homebuyers across sites.
 
-## Interests and Hobbies
+🏢 **CRM Modules & REST APIs** — *ASP.NET Core*  
+APIs for projects, units, customer workflows & sales tracking.
 
-- ♟️ Chess enthusiast with a love for strategic thinking and problem-solving.
-- 🏋️ Fitness lover committed to staying active and healthy.
-- 📚 Passionate about reading and continuous self-improvement.
-- 🌐 Exploring new technologies, frameworks, and staying updated with industry trends.
+💻 **Inventory + Ticketing System** — *Django*  
+Tracks hardware devices & manages internal support ticketing.
 
-Let's connect, collaborate, and build amazing projects together! 🚀
+🖥️ **Watermark Builder** — *WPF, .NET 8*  
+On-screen security watermark to identify sensitive info leaks.
+
+📅 **Meeting Management App** — *Django*  
+Manages scheduling, attendance, and organization-wide meetings.
+
+---
+
+### 💼 Freelance Work
+
+🚀 Delivered multiple freelance solutions, including:
+
+🌐 Fintrix Consulting: https://www.fintrixconsulting.com  
+🌐 BidUpdate Tender Portal: https://bidupdate.in  
+🔧 Plus several smaller custom projects
+
+---
+
+### 📚 Currently Learning
+
+🌟 **SAP ABAP** to support enterprise-grade digital transformation at my current organization.
+
+---
+
+### 🧠 Skills
+
+**Languages:** C#, Python, C++  
+**Frameworks:** ASP.NET Core, Django, WPF  
+**Database & ORM:** SQL Server, Entity Framework Core  
+**Concepts:** REST APIs, Microservices, Minimal APIs, Authentication, Security, Performance  
+**Tools & Tech:** Git, Postman, Docker *(Basics)*, Azure DevOps *(Basics)*  
+
+---
+
+### 🤝 Interests Beyond Work
+
+♟️ Strategy & problem-solving via **Chess**  
+🏋️ Fitness for discipline & focus  
+📚 Continuous learning & reading  
+🧪 Exploring new technologies & patterns  
+
+---
+
+🚀 *Open to collaboration & always excited to build impactful solutions!*
